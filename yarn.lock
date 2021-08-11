@@ -298,6 +298,11 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
+"@vitejs/plugin-vue@^1.2.1":
+  version "1.4.0"
+  resolved "https://registry.nlark.com/@vitejs/plugin-vue/download/@vitejs/plugin-vue-1.4.0.tgz#962ae01b7fd16ad4007898c64ed639136e12215b"
+  integrity sha1-lirgG3/RatQAeJjGTtY5E24SIVs=
+
 "@vue/compiler-core@3.0.3":
   version "3.0.3"
   resolved "https://registry.npm.taobao.org/@vue/compiler-core/download/@vue/compiler-core-3.0.3.tgz?cache=0&sync_timestamp=1606319180904&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcompiler-core%2Fdownload%2F%40vue%2Fcompiler-core-3.0.3.tgz#dbb4d5eb91f294038f0bed170a1c25f59f7dc74f"
